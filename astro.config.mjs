@@ -23,4 +23,8 @@ export default defineConfig({
     host: true,
     port: 4321,
   },
+  i18n: {
+    locales: ["en", "es"],
+    defaultLocale: "en",
+  }
 });
