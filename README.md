@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 [Demo](https://oscarhernandez.vercel.app/)
 
 The component `<LetterGlitch \>` was taken from [ReactBits.dev](https://www.reactbits.dev/)
